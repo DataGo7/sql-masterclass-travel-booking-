@@ -1,0 +1,55 @@
+--Table : Customers
+CREATE TABLE customers (
+    customer_id SERIAL PRIMARY KEY,
+    full_name VARCHAR(100),
+    email VARCHAR(100) UNIQUE,
+    phone VARCHAR(20),
+    nationality VARCHAR(50),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Table: Flights
+CREATE TABLE flights (
+    flight_id SERIAL PRIMARY KEY,
+    flight_number VARCHAR(20),
+    departure_city VARCHAR(50),
+    destination VARCHAR(50),
+    departure_time TIMESTAMP,
+    arrival_time TIMESTAMP,
+    total_seats INT,
+    seats_booked INT DEFAULT 0,
+    price DECIMAL(10,2)
+);
+
+-- Table: Bookings
+CREATE TABLE bookings (
+    booking_id SERIAL PRIMARY KEY,
+    customer_id INT REFERENCES customers(customer_id),
+    flight_id INT REFERENCES flights(flight_id),
+    booking_date DATE,
+    booking_status VARCHAR(20) DEFAULT 'confirmed', -- pending, confirmed, cancelled
+    passengers INT,
+    total_amount DECIMAL(10,2)
+);
+
+-- Table: Payments
+CREATE TABLE payments (
+    payment_id SERIAL PRIMARY KEY,
+    booking_id INT REFERENCES bookings(booking_id),
+    payment_date TIMESTAMP,
+    amount_paid DECIMAL(10,2),
+    payment_method VARCHAR(20), -- credit_card, paypal, upi, etc.
+    payment_status VARCHAR(20) DEFAULT 'completed' -- pending, completed, failed
+);
+
+-- Table: Hotels
+CREATE TABLE hotels (
+    hotel_id SERIAL PRIMARY KEY,
+    hotel_name VARCHAR(100),
+    city VARCHAR(50),
+    check_in DATE,
+    check_out DATE,
+    customer_id INT REFERENCES customers(customer_id),
+    room_type VARCHAR(30),
+    price_per_night DECIMAL(10,2)
+);
