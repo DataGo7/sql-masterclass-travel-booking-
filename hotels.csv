@@ -1,0 +1,61 @@
+hotel_id,hotel_name,city,check_in,check_out,customer_id,room_type,price_per_night
+1,Walsh Ltd Hotel,Mumbai,2025-06-17,2025-06-24,37,standard,323.18
+2,Bruce-Newman Hotel,Tokyo,2025-06-09,2025-06-13,82,standard,329.4
+3,Jacobson Inc Hotel,Paris,2025-06-12,2025-06-19,81,standard,456.53
+4,"Clay, Alvarez and Williams Hotel",New York,2025-06-10,2025-06-17,40,deluxe,65.01
+5,Lam-Elliott Hotel,Paris,2025-06-07,2025-06-11,12,deluxe,197.02
+6,Smith-Clark Hotel,Paris,2025-06-06,2025-06-11,26,standard,403.93
+7,"Nicholson, Hickman and Evans Hotel",Dubai,2025-06-08,2025-06-12,65,deluxe,423.71
+8,"Davenport, Price and Mosley Hotel",Mumbai,2025-06-17,2025-06-21,38,suite,441.68
+9,"Taylor, Hinton and Ramsey Hotel",Mumbai,2025-06-12,2025-06-14,10,standard,389.37
+10,Brown-Kim Hotel,Toronto,2025-06-16,2025-06-19,72,deluxe,90.64
+11,Jacobs-Austin Hotel,New York,2025-06-22,2025-06-27,34,suite,105.61
+12,Johnson-Nelson Hotel,Berlin,2025-06-17,2025-06-21,75,deluxe,420.09
+13,Perez-Tran Hotel,London,2025-06-25,2025-06-29,87,standard,262.16
+14,Frazier Ltd Hotel,Dubai,2025-06-13,2025-06-19,42,suite,149.62
+15,"Phillips, Wright and Jones Hotel",Mumbai,2025-06-13,2025-06-15,90,deluxe,342.16
+16,Dawson-Walters Hotel,Paris,2025-06-11,2025-06-13,6,standard,186.96
+17,Ward-Davis Hotel,London,2025-06-20,2025-06-25,13,standard,449.27
+18,Ward-Nelson Hotel,Toronto,2025-06-24,2025-06-27,59,deluxe,351.72
+19,Jordan PLC Hotel,Dubai,2025-06-08,2025-06-15,54,suite,384.02
+20,Garcia-Davis Hotel,Toronto,2025-06-17,2025-06-20,84,standard,425.16
+21,"George, Nguyen and Cruz Hotel",Toronto,2025-06-17,2025-06-23,36,standard,360.63
+22,Maxwell-Hardy Hotel,Mumbai,2025-06-11,2025-06-14,57,standard,434.95
+23,Armstrong and Sons Hotel,Sydney,2025-06-17,2025-06-19,70,suite,211.4
+24,Taylor LLC Hotel,Berlin,2025-06-19,2025-06-24,25,standard,477.05
+25,Brown Group Hotel,London,2025-06-11,2025-06-16,85,standard,338.77
+26,Washington-Jones Hotel,New York,2025-06-11,2025-06-17,7,deluxe,159.61
+27,Le Group Hotel,Auckland,2025-06-11,2025-06-14,27,standard,423.42
+28,Ellis and Sons Hotel,Tokyo,2025-06-17,2025-06-23,76,standard,415.87
+29,Cook-Oliver Hotel,Sydney,2025-06-12,2025-06-15,100,standard,404.89
+30,Alexander-Jordan Hotel,New York,2025-06-22,2025-06-28,36,standard,494.39
+31,"Mccann, Taylor and Flores Hotel",Berlin,2025-06-22,2025-06-28,23,standard,347.48
+32,Mendoza and Sons Hotel,Paris,2025-06-24,2025-06-26,2,deluxe,405.49
+33,Carter-Neal Hotel,Auckland,2025-06-25,2025-06-28,42,standard,128.41
+34,"Casey, Nguyen and Ramirez Hotel",Paris,2025-06-15,2025-06-17,95,deluxe,286.74
+35,Wilson-Elliott Hotel,London,2025-06-21,2025-06-28,61,deluxe,400.11
+36,"White, Saunders and Johnson Hotel",Auckland,2025-06-17,2025-06-23,14,deluxe,276.73
+37,"Clark, Salinas and Guerra Hotel",New York,2025-06-20,2025-06-26,94,suite,284.65
+38,Chambers-Taylor Hotel,New York,2025-06-07,2025-06-12,8,deluxe,431.28
+39,Hopkins-Espinoza Hotel,London,2025-06-12,2025-06-17,63,suite,459.37
+40,Cole PLC Hotel,London,2025-06-21,2025-06-23,42,suite,116.75
+41,Ferguson-Mclean Hotel,Berlin,2025-06-15,2025-06-18,80,suite,313.41
+42,Stephens-Gibbs Hotel,Sydney,2025-06-23,2025-06-30,49,suite,288.75
+43,"Wheeler, Rocha and Rodriguez Hotel",Dubai,2025-06-13,2025-06-18,78,deluxe,94.63
+44,"Kelly, Holland and Williams Hotel",London,2025-06-10,2025-06-17,84,suite,444.97
+45,"Lucas, Rasmussen and Rivera Hotel",Tokyo,2025-06-25,2025-07-01,56,deluxe,449.64
+46,Smith LLC Hotel,Sydney,2025-06-21,2025-06-26,59,deluxe,237.2
+47,"Stone, Carpenter and Johnston Hotel",Sydney,2025-06-10,2025-06-12,55,deluxe,349.3
+48,Ford-Frazier Hotel,Paris,2025-06-14,2025-06-18,88,deluxe,80.21
+49,Cooper Inc Hotel,London,2025-06-19,2025-06-21,56,standard,385.07
+50,Perry-Nixon Hotel,Paris,2025-06-15,2025-06-19,72,standard,313.91
+51,"Thomas, Collins and Gibson Hotel",Dubai,2025-06-08,2025-06-14,43,suite,105.0
+52,Bailey-Davis Hotel,Toronto,2025-06-10,2025-06-14,93,standard,485.78
+53,Flores-Evans Hotel,Berlin,2025-06-20,2025-06-26,46,standard,310.06
+54,Johnson LLC Hotel,Paris,2025-06-22,2025-06-25,85,deluxe,150.91
+55,"Marsh, Spears and Yang Hotel",Sydney,2025-06-18,2025-06-20,72,deluxe,101.7
+56,"Moore, Castro and Mullen Hotel",Auckland,2025-06-16,2025-06-20,29,deluxe,430.32
+57,Soto-Lopez Hotel,Auckland,2025-06-10,2025-06-16,87,suite,300.53
+58,Johnson-Mendez Hotel,Berlin,2025-06-19,2025-06-25,4,standard,172.97
+59,"Jordan, Smith and Lewis Hotel",Sydney,2025-06-09,2025-06-13,45,standard,131.63
+60,"Stokes, Brown and Garcia Hotel",Auckland,2025-06-11,2025-06-14,85,deluxe,81.31

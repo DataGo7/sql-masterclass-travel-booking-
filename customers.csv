@@ -1,0 +1,101 @@
+customer_id,full_name,email,phone,nationality,created_at
+1,Allison Hill,donaldgarcia@example.net,+1-219-560-0133,UK,2025-04-30 12:04:30.124185
+2,Jennifer Cole,lisa02@example.net,(254)923-5116x15594,USA,2025-03-31 11:54:19.484217
+3,Jamie Arnold,barbara10@example.net,441.731.6475,Germany,2025-03-01 07:03:56.892727
+4,Mia Sutton,lynchgeorge@example.net,527.264.8350,Japan,2025-05-15 08:40:36.121426
+5,Austin Gentry,jason76@example.net,724.523.8849x696,Japan,2025-06-16 10:52:11.467227
+6,Johnny Campos,hernandezernest@example.net,(791)366-9784x80184,France,2025-02-18 23:38:19.444108
+7,Aaron Bowen,teresa28@example.org,+1-948-293-2528x8095,UK,2025-01-19 16:05:43.114693
+8,William Roman,brianhumphrey@example.org,671-882-2782,UAE,2025-06-10 22:50:03.754741
+9,Nicole Vaughn,raymond57@example.net,213.331.5098x393,UK,2025-04-29 03:18:52.986278
+10,Austin Johnson,chad34@example.net,838.729.9737x6311,New Zealand,2025-03-12 16:40:43.560338
+11,Nicholas Nunez,brownjessica@example.org,933.587.2624,Canada,2025-05-26 22:49:29.659377
+12,Robert Chase,williamsyvette@example.org,432-867-7360,USA,2025-01-01 08:38:00.758433
+13,Timothy Glover,rodney87@example.org,243.909.8050,USA,2025-03-25 22:12:29.789635
+14,Brooke Yu,yorkcasey@example.org,+1-736-619-3990x91699,UK,2025-02-04 02:10:36.856052
+15,Cynthia Foster,stephen10@example.com,+1-791-618-3842x513,Japan,2025-01-27 07:52:04.150794
+16,Michele Carr,contrerasangela@example.net,524-711-8244,Japan,2025-02-03 23:31:32.381909
+17,Deborah Freeman,davisrodney@example.com,2053242786,UAE,2025-01-13 13:23:43.535187
+18,Stephanie Gardner,brandi26@example.org,8454053315,New Zealand,2025-06-04 12:13:21.343252
+19,Christopher Marsh,nicolejohnson@example.net,563-542-1607x33754,USA,2025-01-04 22:47:23.372852
+20,Garrett Lin,michael86@example.net,+1-350-814-2940,UAE,2025-02-27 16:40:40.645011
+21,Jessica Joyce,cruzbarbara@example.com,7607883561,Japan,2025-04-21 17:15:09.766172
+22,Steven Hunter,snguyen@example.com,+1-823-266-2994,UAE,2025-02-20 17:11:45.332695
+23,Richard Lawson,steven73@example.net,221.248.9513x4332,Canada,2025-02-10 20:44:12.500809
+24,Samuel Jones,kmercado@example.org,001-967-263-2016x328,Japan,2025-04-04 00:44:03.946106
+25,Barbara Anderson,jcontreras@example.net,979-586-8727x74348,India,2025-02-15 19:55:20.996711
+26,Dustin Nelson,patricia12@example.org,962.831.6658,New Zealand,2025-01-11 09:24:37.399592
+27,Jean Carrillo,gateskathy@example.com,805.946.6889x3734,Germany,2025-01-05 20:15:40.631965
+28,Michael Powell,marycalhoun@example.net,+1-906-499-0162,USA,2025-01-09 09:25:09.141662
+29,Daniel Murphy,aramirez@example.com,270-580-5310,France,2025-02-03 06:33:19.779572
+30,Christian Martinez,elliottjeffery@example.net,852-899-1241x904,Canada,2025-06-07 03:08:14.529202
+31,Kevin Rivas,curtisbarton@example.net,+1-819-905-8651x850,Australia,2025-01-18 14:44:40.435340
+32,Madison Poole,ryangross@example.net,998-577-6945x314,Germany,2025-05-06 06:05:38.528716
+33,Mary Rogers,lrosales@example.com,554.354.9480,France,2025-02-10 06:46:16.933843
+34,Justin Allen,fbrewer@example.com,9147363495,Japan,2025-03-13 00:23:24.976568
+35,Erin Warner,kristopher31@example.net,651.382.3374,Australia,2025-05-19 23:09:39.266243
+36,Isaac Turner,joshuamccann@example.net,627-910-9477x7520,UK,2025-01-20 00:59:07.293445
+37,John Ray,hernandezlisa@example.com,831-986-9993,UK,2025-06-01 15:05:18.524747
+38,Kevin Patterson,lynchjody@example.org,+1-934-612-3281x2067,Canada,2025-01-06 10:44:29.782739
+39,Douglas Heath,mcdanielsandra@example.net,001-336-218-3242,UK,2025-01-28 16:37:02.217305
+40,Paul Carroll,scott74@example.net,(248)387-7190x6594,Australia,2025-02-08 04:58:31.593604
+41,Shannon Matthews,keyemily@example.com,001-802-978-7429,Australia,2025-06-11 17:37:47.595260
+42,Jason Morris,hodgemark@example.net,246.980.7154x5168,New Zealand,2025-03-10 23:17:48.816198
+43,Isaiah Avila,nwolf@example.com,+1-424-677-1093,Germany,2025-04-02 22:25:50.259845
+44,Anna Gay,murraydavid@example.org,448.346.7737x8263,USA,2025-02-16 02:31:53.515950
+45,Jennifer Villa,lori44@example.net,001-872-978-7558,India,2025-06-05 16:36:57.215526
+46,Veronica Allen,xhall@example.com,7573662702,UAE,2025-05-26 21:38:27.367758
+47,Joseph Bryant,robertpena@example.org,874-759-6158,UK,2025-04-15 14:41:43.080418
+48,Katherine Weaver,younggabrielle@example.com,216.711.7240,Canada,2025-05-13 21:01:03.605125
+49,James Thomas,yknight@example.org,(421)596-9379,UK,2025-03-18 23:10:25.098671
+50,David Smith,rsantana@example.net,(617)559-4647,UAE,2025-06-16 19:04:20.755628
+51,Ashley James,bailey40@example.net,(640)490-9743x9533,Germany,2025-04-15 20:29:56.710487
+52,Maria Parker,xjohnson@example.net,(714)656-2328,New Zealand,2025-05-19 14:31:33.238588
+53,Roger Olson,julie51@example.com,623-368-5160,Australia,2025-03-17 21:40:57.269809
+54,Megan Richards,daniel37@example.org,+1-285-693-1746x120,New Zealand,2025-06-16 05:16:06.361141
+55,David Medina,qchavez@example.net,001-786-592-6179x640,Japan,2025-03-16 00:00:25.779005
+56,Savannah Garcia,amy50@example.com,531-371-3900x532,UK,2025-05-19 11:54:11.215548
+57,Laurie Li,markhernandez@example.net,4422284210,USA,2025-03-01 18:58:07.341077
+58,Leah Smith,brian68@example.org,001-617-975-8917x8390,Japan,2025-04-18 08:57:13.140267
+59,Zachary Boone,fparks@example.net,711.859.2124x998,Germany,2025-06-16 00:03:45.734524
+60,Jody Jacobs,mcguiredanny@example.net,+1-883-767-3657x6615,UK,2025-04-22 00:08:37.905469
+61,Christian Leblanc,davischristopher@example.com,352-880-9885,Japan,2025-03-01 00:21:57.546538
+62,Nicole Parrish,schmittcaroline@example.com,798-332-7315,UK,2025-05-08 06:40:44.897459
+63,Renee Bruce,lynchdiane@example.net,302-444-5502x296,Canada,2025-05-04 16:00:43.483579
+64,Anna Moreno,vbarnes@example.org,(645)999-1022x901,Germany,2025-04-21 11:26:58.172532
+65,Mr. Donald Fischer,reeddaniel@example.net,+1-497-684-0369x00343,India,2025-02-18 07:24:14.840186
+66,Jonathan Jordan,omarpadilla@example.net,+1-751-860-6071,Australia,2025-04-06 16:47:57.297944
+67,Jennifer Wilson,burchgeorge@example.net,651.761.3696x816,France,2025-02-06 23:31:29.917029
+68,Angela Schultz,rebeccabailey@example.net,+1-923-912-4329x2127,Australia,2025-04-24 16:20:08.783847
+69,Maria Downs,michelle52@example.com,377-644-9058,Australia,2025-03-19 01:32:50.058352
+70,Jacob Mitchell,gilbertwilliam@example.com,001-480-279-3597,Japan,2025-03-17 04:36:25.581170
+71,Sara Haas,wagnergerald@example.org,001-777-288-9255x466,Germany,2025-05-12 17:18:46.540480
+72,Andrea Davis,umitchell@example.net,+1-625-819-2546x291,UK,2025-04-18 09:33:53.346037
+73,Carl Warner,lucasrodney@example.com,4544235733,New Zealand,2025-01-13 21:05:27.769137
+74,Ashley Wise,stanleynancy@example.net,(296)822-2927,France,2025-03-02 19:13:51.795911
+75,Tracy Bishop,pyoung@example.com,435.697.7468x8623,UAE,2025-01-09 17:00:37.667925
+76,Mr. Timothy Dawson,mitchellkathryn@example.com,782.561.3750x606,Japan,2025-03-06 10:49:11.721818
+77,Danny Flores,combsdebra@example.org,(304)272-7790,France,2025-02-12 17:07:27.104912
+78,Kimberly Acosta,srodriguez@example.org,510-436-9711x7980,India,2025-02-18 14:42:49.443286
+79,Harry Duncan,elizabethmiller@example.com,288-888-8067,Canada,2025-06-13 17:38:00.690899
+80,Alan Kramer,john19@example.net,001-252-605-8527x72217,Germany,2025-02-03 15:29:21.066259
+81,Stacey Stewart,zachary87@example.com,8348505415,UAE,2025-05-05 01:22:46.984517
+82,Jasmine Beltran,xholt@example.net,716-616-9284x511,Japan,2025-02-21 03:41:39.055439
+83,Jessica Norris,sergio59@example.com,401-365-8202x970,Australia,2025-02-09 09:17:55.569227
+84,Heidi Herring,jacobserika@example.com,(271)492-8565x431,USA,2025-03-25 06:57:40.817030
+85,Justin Green,jane39@example.com,001-373-612-1727x155,Japan,2025-05-29 18:18:06.644721
+86,Michelle Ho,laurahicks@example.org,923.470.5895,USA,2025-04-13 03:12:32.912134
+87,Eric Key,xfox@example.com,001-412-451-7785,Australia,2025-05-09 03:24:43.382171
+88,Jonathan Oneill,holmeskevin@example.org,335-484-1438x42498,Canada,2025-04-09 18:32:13.411459
+89,Carolyn Weber,megan90@example.org,909-643-9690,Germany,2025-04-18 03:12:43.451009
+90,David Aguirre,eevans@example.net,4277677359,UK,2025-05-24 18:44:55.787522
+91,William Reed,xanderson@example.net,+1-415-337-1473,Japan,2025-01-09 10:42:13.064658
+92,Sharon Barnes,lisapeck@example.net,532-578-7747x01687,New Zealand,2025-04-08 08:37:56.929180
+93,Douglas Harper,amitchell@example.org,(624)356-5060x98358,Australia,2025-03-06 11:33:06.372998
+94,Joshua Bryan,andersoncolin@example.com,985-923-9868x00025,Japan,2025-01-25 20:35:38.383615
+95,Brenda Velazquez,francisco94@example.net,688-287-9470x55169,India,2025-04-10 14:58:12.771549
+96,Matthew Stanton,jennifersilva@example.org,896.523.0913x07562,Canada,2025-03-10 11:48:00.817910
+97,Tami Salas,thorntonapril@example.net,578-565-2785x85497,India,2025-02-16 13:34:58.455793
+98,Todd Hendrix,janet75@example.com,(284)641-9866x524,France,2025-06-09 10:35:13.608424
+99,Thomas Douglas,ilewis@example.com,+1-542-519-9330,Germany,2025-01-09 18:15:26.694789
+100,Mitchell Garcia,adampierce@example.org,(877)434-5401x93802,France,2025-06-05 20:54:11.833263
